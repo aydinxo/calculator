@@ -1,7 +1,7 @@
 # iPhone calculator design
 A simple calculator using HTML, CSS & Javascript
 
-![An old rock in the desert](./calculator-image.png "Shiprock, New Mexico by Beau Rogers")
+![calculator image](./calculator-image.png "iPhone calculator design image")
 
 
 ## demo 
